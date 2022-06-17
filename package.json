@@ -74,7 +74,7 @@
     "compression-webpack-plugin": "0.3.1",
     "copy-webpack-plugin": "4.0.1",
     "css-loader": "0.26.1",
-    "electron": "1.4.0",
+    "electron": "15.5.5",
     "es6-promise": "3.3.1",
     "es6-shim": "0.35.3",
     "es7-reflect-metadata": "1.6.0",
